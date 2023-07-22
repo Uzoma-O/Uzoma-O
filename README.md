@@ -1,6 +1,6 @@
 -  Hey I’m Uzoma
 - I’m interested in computer science
-- I’m currently learning R and Javascript
+- I’m currently learning SQL, R, and Javascript
 - Reach me by email at u.onyegbula6@gmail.com
 
 <!---
